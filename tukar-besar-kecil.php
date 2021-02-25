@@ -11,6 +11,7 @@ function tukar_besar_kecil($string){
     return $output."<br>";
 }
 
+//tes
 // TEST CASES
 echo tukar_besar_kecil('Hello World'); // "hELLO wORLD"
 echo tukar_besar_kecil('I aM aLAY'); // "i Am Alay"

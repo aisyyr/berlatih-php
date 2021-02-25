@@ -14,6 +14,7 @@ function tentukan_nilai($number)
     
 }
 
+//test
 //TEST CASES
 echo tentukan_nilai(98); //Sangat Baik
 echo tentukan_nilai(76); //Baik
